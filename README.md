@@ -13,7 +13,7 @@ Solution found in this repositroy doesn't use the same microcontroller. It uses 
 
 Board is designed using surface mounted components (SMD).
 
-Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](Analogna Efekt Pedala) (it's in Serbian)
+Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](./Analogna%20Efekt%20Pedala.pdf) (it's in Serbian)
 
 ## Render images
 
