@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/add52ed0-eb6d-45c2-a73b-62471b15cc37" alt="3D render" width="300"/>
-  <img src="https://github.com/user-attachments/assets/1e218f75-acb6-49e7-8b9a-b7f13842bf8a" alt="Block diagram" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1e218f75-acb6-49e7-8b9a-b7f13842bf8a" alt="Block diagram" width="600"/>
 </p>
 
 This repository contains schematic, design files and firmware for digital delay guitar effect pedal based on PT2399.
