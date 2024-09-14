@@ -1,5 +1,9 @@
 # The Time Manipulator
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/add52ed0-eb6d-45c2-a73b-62471b15cc37" alt="3D render" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1e218f75-acb6-49e7-8b9a-b7f13842bf8a" alt="Block diagram" width="300"/>
+</p>
 ![image](https://github.com/user-attachments/assets/add52ed0-eb6d-45c2-a73b-62471b15cc37)
 
 
@@ -10,10 +14,6 @@ Electro Smash's pedal is built using popular Arduino ATMEGA328P-PU chip.
 Solution found in this repositroy doesn't use the same microcontroller. It uses PIC16F72. Reason for that is I had those readily available.
 
 Board is designed using surface mounted components (SMD).
-
-## Block diagram
-Effect pedal signal flow diagram is shown below. 
-![image](https://github.com/user-attachments/assets/1e218f75-acb6-49e7-8b9a-b7f13842bf8a)
 
 ## Render images
 
