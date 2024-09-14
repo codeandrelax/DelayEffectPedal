@@ -9,7 +9,7 @@ This repository contains schematic, design files and firmware for digital delay 
 Effect pedal was inspired by [_The Time Manipulator_](https://www.electrosmash.com/time-manipulator) effect pedal.
 
 Electro Smash's pedal is built using popular Arduino ATMEGA328P-PU chip. 
-Solution found in this repositroy doesn't use the same microcontroller. It uses PIC16F72. Reason for that is I had those readily available.
+Solution found in this repositroy doesn't use the same microcontroller. It uses PIC16F72.
 
 Board is designed using surface mounted components (SMD).
 
