@@ -15,11 +15,6 @@ Board is designed using surface mounted components (SMD).
 
 Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](./Analogna%20Efekt%20Pedala.pdf) (it's in Serbian)
 
-Tool used for schematics drwaing and pcb layout is [KiCad](https://www.kicad.org/), version 7.0.7
-
-Tools used to draw block image is [ExcaliDraw](https://excalidraw.com/).
-
-
 ## Render images
 
 ![image](https://github.com/user-attachments/assets/d36be784-8824-447e-932b-f6c6a2ffa0aa)
@@ -61,3 +56,9 @@ This layer has two power planes. Bigger one is for 5V supply, and the smaller on
 
 ## Firmawrae
 Firmware and PCB design of PT2399 IC based digital delay  effect guitar pedal
+
+## Tools
+
+Tool used for schematics drwaing and pcb layout is [KiCad](https://www.kicad.org/), version 7.0.7
+
+Tools used to draw block image is [ExcaliDraw](https://excalidraw.com/).
