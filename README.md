@@ -32,6 +32,10 @@ Aditionaly, I have written on effect pedal design, it can be found in the reposi
 
 Firmware and PCB design of PT2399 IC based digital delay  effect guitar pedal
 
+## Development diagram
+
+![DevelopmentDiagram](https://github.com/user-attachments/assets/a81dd1b5-45e5-4b70-b172-9b89799e178f)
+
 ## Render images
 
 ![image](https://github.com/user-attachments/assets/d36be784-8824-447e-932b-f6c6a2ffa0aa)
