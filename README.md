@@ -13,7 +13,7 @@ Solution found in this repositroy doesn't use the same microcontroller. It uses 
 
 Board is designed using surface mounted components (SMD).
 
-Aditionaly, I have written on effect pedal design, it can be found in the pdf file under the name "Analogna Efekt Pedala" (it's in Serbian)
+Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](Analogna Efekt Pedala) (it's in Serbian)
 
 ## Render images
 
@@ -28,7 +28,7 @@ Aditionaly, I have written on effect pedal design, it can be found in the pdf fi
 ![image](https://github.com/user-attachments/assets/5019b626-62c7-4185-ba83-11d744e5bb0b)
 
 ## Schematics
-Schematics PDF can be found in the repository under the name "PT2399_DigitalEffectPedal".
+[Schematics](PT2399_DigitalEffectPedal.pdf) PDF can be found in the repository. 
 
 ![image](https://github.com/user-attachments/assets/09b07a00-c897-42f6-93b7-fe6db2b98f10)
 
