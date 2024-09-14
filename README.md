@@ -15,6 +15,23 @@ Board is designed using surface mounted components (SMD).
 
 Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](./Analogna%20Efekt%20Pedala.pdf) (it's in Serbian)
 
+## First version of the board
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f98e938d-9887-4372-864f-4a4a66107280" alt="Image 1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/72c27344-82cb-4cb2-9c92-6979e74377d1" alt="Image 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb3fa088-5605-4743-977b-243b9401c95e" alt="Image 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1e18355e-8ebe-4095-9a8f-a258416abe1a" alt="Image 3" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9d15bed4-8fb9-43c8-ad42-c9276e6c5d72" alt="Image 4" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/fce24942-f342-4900-bc35-3f32ebbe8c5d" alt="Image 2" width="200"/></td>
+  </tr>
+</table>
+
+Firmware and PCB design of PT2399 IC based digital delay  effect guitar pedal
+
 ## Render images
 
 ![image](https://github.com/user-attachments/assets/d36be784-8824-447e-932b-f6c6a2ffa0aa)
@@ -54,23 +71,6 @@ This layer has two power planes. Bigger one is for 5V supply, and the smaller on
 ![image](https://github.com/user-attachments/assets/00bdfabb-23f3-4e0c-8bc3-faa2a2a31881)
 
 ## Firmawrae
-
-## First version of the board
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/f98e938d-9887-4372-864f-4a4a66107280" alt="Image 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/72c27344-82cb-4cb2-9c92-6979e74377d1" alt="Image 2" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/bb3fa088-5605-4743-977b-243b9401c95e" alt="Image 2" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/1e18355e-8ebe-4095-9a8f-a258416abe1a" alt="Image 3" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9d15bed4-8fb9-43c8-ad42-c9276e6c5d72" alt="Image 4" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/fce24942-f342-4900-bc35-3f32ebbe8c5d" alt="Image 2" width="200"/></td>
-  </tr>
-</table>
-
-Firmware and PCB design of PT2399 IC based digital delay  effect guitar pedal
 
 ## Tools
 
