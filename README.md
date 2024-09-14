@@ -15,6 +15,10 @@ Board is designed using surface mounted components (SMD).
 
 Aditionaly, I have written on effect pedal design, it can be found in the repository [Analogna Efekt Pedala](./Analogna%20Efekt%20Pedala.pdf) (it's in Serbian)
 
+Tools used for schematics drwaing and pcb layout is KiCAD, version 7.0.7
+![image](https://github.com/user-attachments/assets/692743b8-a062-4f33-ae2f-33d118984b04)
+
+
 ## Render images
 
 ![image](https://github.com/user-attachments/assets/d36be784-8824-447e-932b-f6c6a2ffa0aa)
