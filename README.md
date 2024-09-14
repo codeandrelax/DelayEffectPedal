@@ -1,9 +1,12 @@
 # The Time Manipulator
 
+![image](https://github.com/user-attachments/assets/add52ed0-eb6d-45c2-a73b-62471b15cc37)
+
+
 This repository contains schematic, design files and firmware for digital delay guitar effect pedal based on PT2399.
 Effect pedal was inspired by [_The Time Manipulator_](https://www.electrosmash.com/time-manipulator) effect pedal.
 
-Electro Smash's pedal is build using popular Arduino ATMEGA328P-PU chip. 
+Electro Smash's pedal is built using popular Arduino ATMEGA328P-PU chip. 
 Solution found in this repositroy doesn't use the same microcontroller. It uses PIC16F72. Reason for that is I had those readily available.
 
 Board is designed using surface mounted components (SMD).
