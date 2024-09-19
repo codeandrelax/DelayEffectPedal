@@ -81,3 +81,7 @@ This layer has two power planes. Bigger one is for 5V supply, and the smaller on
 Tool used for schematics drwaing and pcb layout is [KiCad](https://www.kicad.org/), version 7.0.7
 
 Tools used to draw block image is [ExcaliDraw](https://excalidraw.com/).
+
+## TO DO
+
+Add vias where there's empty space.
