@@ -6733,8 +6733,8 @@
     (property "Datasheet" "~" (at 260.858 52.324 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cf5e639f-2101-4f09-920e-8aa9ca562533))
-    (pin "2" (uuid 9c1c4341-acd2-45af-9c12-c20ec353feb9))
+    (pin "1" (uuid 60dc9c50-1dff-4c37-be52-5cb318e5ffb6))
+    (pin "2" (uuid 2c7f5197-fb73-465b-966b-cf24fe080c28))
     (instances
       (project "PT2399_DigitalEffectPedal"
         (path "/43417130-6dbf-421b-81c0-a533dc8d0b3f"
@@ -7352,8 +7352,8 @@
     (property "Datasheet" "~" (at 165.354 89.916 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 89602cc8-ab1d-4989-af6c-7115aabd58aa))
-    (pin "2" (uuid b4cef3a7-79e8-4bbc-9a05-344e0f876458))
+    (pin "1" (uuid 8a92e720-0a2f-4f0b-b9d6-2ec3d1dced47))
+    (pin "2" (uuid 3ef66ffd-cd1f-4315-853f-961e803891ab))
     (instances
       (project "PT2399_DigitalEffectPedal"
         (path "/43417130-6dbf-421b-81c0-a533dc8d0b3f"
@@ -8157,8 +8157,8 @@
     (property "Datasheet" "~" (at 284.988 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 916c2317-270b-46df-b64e-057952398c28))
-    (pin "2" (uuid 95d6da9d-8867-498e-a6be-94c91855605b))
+    (pin "1" (uuid fa29b855-9d74-4b1c-a398-29225ebf6230))
+    (pin "2" (uuid 86504c07-4e30-4803-aac9-27d41ce0509f))
     (instances
       (project "PT2399_DigitalEffectPedal"
         (path "/43417130-6dbf-421b-81c0-a533dc8d0b3f"
@@ -10892,8 +10892,8 @@
     (property "Datasheet" "~" (at 331.978 65.278 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8230967-7f5e-4dff-857b-30c7ce025871))
-    (pin "2" (uuid 69412096-12d0-415c-960c-2f17456478d7))
+    (pin "1" (uuid efea6d8f-7d8b-4372-b862-6c051a324c80))
+    (pin "2" (uuid 490c6cf4-ac62-4779-88f3-3fefbf45528c))
     (instances
       (project "PT2399_DigitalEffectPedal"
         (path "/43417130-6dbf-421b-81c0-a533dc8d0b3f"
