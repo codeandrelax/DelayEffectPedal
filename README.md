@@ -84,4 +84,4 @@ Tools used to draw block image is [ExcaliDraw](https://excalidraw.com/).
 
 ## TO DO
 
-Add vias where there's empty space.
+- Encoder board
